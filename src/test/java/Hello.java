@@ -7,5 +7,10 @@ public class Hello {
             System.out.println(i);
         }
     }
+    class select{
+        public void main(String hello) {
+            System.out.println(1122);
+        }
+    }
 }
 
